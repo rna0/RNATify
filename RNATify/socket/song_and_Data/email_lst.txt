@@ -1,0 +1,5 @@
+my_server mail: tcpserversock@gmail.com
+my_server password: serverclient
+
+my_client1 mail: tcpclientsock@gmail.com
+my_client1 password: serverclient

@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="songs_nocopyright">
+    <file>songs no copy right/1/Unknown Brain - Why Do I_ (feat. Bri Tolani) [NCS Release].mp3</file>
+    <file>songs no copy right/2/Ship Wrek &amp; Essy - Fools Gold [NCS Release].mp3</file>
+    <file>songs no copy right/3/Robert G - Emdi x Coorby - Lonewolf (feat. Kristi-Leah).mp3</file>
+    <file>songs no copy right/4/Andromedik - Let Me In.mp3</file>
+    <file>songs no copy right/5/Culture Code - Feel Again (feat. Harley Bird) [NCS Release].mp3</file>
+    <file>songs no copy right/6/Jim Yosef &amp; Anna Yvette - Linked [NCS Release].mp3</file>
+    <file>songs no copy right/7/Jo Cohen &amp; beep Whales - Run Away (feat. Lusil) [NCS Release].mp3</file>
+    <file>songs no copy right/8/Brandon Jonak &amp; Pep.B - Where Do I Go (feat. Ezra James) [NCS Release].mp3</file>
+    <file>songs no copy right/9/Anevo - Waiting On Your Call (feat. Park Avenue) [Monster].mp3</file>
+  </qresource>
+  <qresource prefix="mozart">
+    <file>Mozart/3/Turkish March - Mozart.mp3</file>
+    <file>Mozart/1/Lacrimosa - Mozart.mp3</file>
+    <file>Mozart/2/The Marriage of Figaro - Mozart.mp3</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+Main Theme of the 
+Fantaisie-Impromptu
+Frederic Chopin's 
+Fantaisie-Impromptu in C# minor Op. 
+posth. 66 is a solo piano composition. 
+It was composed in 1834 and published 
+posthumously in 1855 even though Chopin 
+had instructed that none of his 
+unpublished manuscripts be published. 
+The Fantaisie-Impromptu is one of 
+Chopin's most frequently performed and 
+popular compositions.
